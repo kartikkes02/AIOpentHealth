@@ -30,3 +30,29 @@
 ## 🌟 Overview
 
 > OpenHealth helps you *take charge of your health data*. By leveraging AI and your personal health information,
+> OpenHealth provides a private assistant that helps you better understand and manage your health. You can run it completely locally for maximum privacy.
+
+## ✨ Project Features
+
+<details open>
+<summary><b>Core Features</b></summary>
+
+- 📊 *Centralized Health Data Input:* Easily consolidate all your health data in one place.
+- 🛠 *Smart Parsing:* Automatically parses your health data and generates structured data files.
+- 🤝 *Contextual Conversations:* Use the structured data as context for personalized interactions with GPT-powered AI.
+
+</details>
+
+## 📥 Supporting Data Sources & Language Models
+
+<table>
+  <tr>
+    <th>Data Sources You Can Add</th>
+    <th>Supported Language Models</th>
+  </tr>
+  <tr>
+    <td>
+      • Blood Test Results<br>
+      • Health Checkup Data<br>
+      • Personal Physical Information<br>
+      • Family History<br>
