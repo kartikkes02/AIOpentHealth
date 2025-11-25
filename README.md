@@ -73,3 +73,24 @@
 > - 💡 *Your health is your responsibility.*
 > - ✅ True health management combines *your data* + *intelligence*, turning insights into actionable plans.
 > - 🧠 AI acts as an unbiased tool to guide and support you in managing your long-term health effectively.
+
+## 🗺 Project Diagram
+
+mermaid
+graph LR
+    subgraph Health Data Sources
+        A1[Clinical Records<br>Blood Tests/Diagnoses/<br>Prescriptions/Imaging]
+        A2[Health Platforms<br>Apple Health/Google Fit]
+        A3[Wearable Devices<br>Oura/Whoop/Garmin]
+        A4[Personal Records<br>Diet/Symptoms/<br>Family History]
+    end
+
+    subgraph Data Processing
+        B1[Data Parser & Standardization]
+        B2[Unified Health Data Format]
+    end
+
+    subgraph AI Integration
+        C1[LLM Processing<br>Commercial & Local Models]
+        C2[Interaction Methods<br>RAG/Cache/Agents]
+    end
