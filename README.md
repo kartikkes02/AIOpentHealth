@@ -56,3 +56,20 @@
       • Health Checkup Data<br>
       • Personal Physical Information<br>
       • Family History<br>
+      • Symptoms
+    </td>
+    <td>
+      • LLaMA<br>
+      • DeepSeek-V3<br>
+      • GPT<br>
+      • Claude<br>
+      • Gemini
+    </td>
+  </tr>
+</table>
+
+## 🤔 Why We Built OpenHealth
+
+> - 💡 *Your health is your responsibility.*
+> - ✅ True health management combines *your data* + *intelligence*, turning insights into actionable plans.
+> - 🧠 AI acts as an unbiased tool to guide and support you in managing your long-term health effectively.
