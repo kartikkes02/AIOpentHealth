@@ -151,14 +151,3 @@ graph LR
 ---
 
 ---
-
-## 🌐 Community and Support
-
-<div align="center">
-
-
-### 🤝 Talk with Me
-
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kartikeyakesarwani@gmail.com)
-
-</div>
