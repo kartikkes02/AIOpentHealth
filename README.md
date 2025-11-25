@@ -116,8 +116,7 @@ graph LR
 
 1. *Clone the Repository:*
    bash
-   git clone https://github.com/OpenHealthForAll/open-health.git
-   cd open-health
+   git clone https://github.com/kartikkes02/AIOpentHealth.git
    
 
 2. *Setup and Run:*
