@@ -150,3 +150,21 @@ graph LR
 > *Note:* The system consists of two main components: parsing and LLM. For parsing, you can use docling for full local execution, while the LLM component can run fully locally using Ollama.
 
 > *Note:* If you're using Ollama with Docker, make sure to set the Ollama API endpoint to: http://docker.for.mac.localhost:11434 on a Mac or http://host.docker.internal:11434 on Windows.
+
+</details>
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=OpenHealthForAll/open-health&type=Date)](https://star-history.com/#OpenHealthForAll/open-health&Date)
+
+---
+
+## 🌐 Community and Support
+
+<div align="center">
+
+### 💫 Share Your Story & Get Updated & Give Feedback
+[![AIDoctor Subreddit](https://img.shields.io/badge/r/AIDoctor-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/AIDoctor/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/B9K654g4wf)
