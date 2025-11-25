@@ -19,9 +19,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="/intro/openhealth.avif" alt="OpenHealth Demo">
-</p>
+</p> -->
 
 ## 🌟 Overview
 
