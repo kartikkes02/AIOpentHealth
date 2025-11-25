@@ -36,7 +36,7 @@
 - 📊 *Centralized Health Data Input:* Easily consolidate all your health data in one place.
 - 🛠 *Smart Parsing:* Automatically parses your health data and generates structured data files.
 - 🤝 *Contextual Conversations:* Use the structured data as context for personalized interactions with GPT-powered AI.
-- 🎙️ Conversational Voice AI – Speak naturally with an accessible voice-driven healthcare assistant.
+- 🎙️ *Conversational Voice AI:* Speak naturally with an accessible voice-driven healthcare assistant.
 
 </details>
 
