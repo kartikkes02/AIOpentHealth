@@ -138,3 +138,15 @@ graph LR
    # Generate ENCRYPTION_KEY for .env file:
    # Run the command below and add the output to ENCRYPTION_KEY in .env
    echo $(head -c 32 /dev/urandom | base64)
+
+   # Rebuild and start the application
+   docker/podman compose --env-file .env up --build
+   
+   to rebuild the image. Run this also if you make any modifications to the .env file.
+
+3. *Access OpenHealth:*
+   Open your browser and navigate to http://localhost:3000 to begin using OpenHealth.
+
+> *Note:* The system consists of two main components: parsing and LLM. For parsing, you can use docling for full local execution, while the LLM component can run fully locally using Ollama.
+
+> *Note:* If you're using Ollama with Docker, make sure to set the Ollama API endpoint to: http://docker.for.mac.localhost:11434 on a Mac or http://host.docker.internal:11434 on Windows.
