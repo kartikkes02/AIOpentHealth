@@ -110,3 +110,31 @@ graph LR
 
 
 > *Note:* The data parsing functionality is currently implemented in a separate Python server and is planned to be migrated to TypeScript in the future.
+
+## Getting Started
+
+## ⚙ How to Run OpenHealth
+
+<details open>
+<summary><b>Installation Instructions</b></summary>
+
+1. *Clone the Repository:*
+   bash
+   git clone https://github.com/OpenHealthForAll/open-health.git
+   cd open-health
+   
+
+2. *Setup and Run:*
+   bash
+   # Copy environment file
+   cp .env.example .env
+
+   # Start the application using Docker/Podman Compose
+   docker/podman compose --env-file .env up
+   
+
+   For existing users, use:
+   bash
+   # Generate ENCRYPTION_KEY for .env file:
+   # Run the command below and add the output to ENCRYPTION_KEY in .env
+   echo $(head -c 32 /dev/urandom | base64)
