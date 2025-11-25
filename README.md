@@ -26,7 +26,11 @@
 > Open Health is a 24×7 AI-powered voice medical assistant designed to provide instant, reliable health guidance through natural conversation.
 > Users can simply speak about their symptoms or concerns, and the system analyzes inputs using AI models to deliver safe first-level triage, health information, and next-step
  recommendations.
-> The platform supports multilingual voice interaction, making it easy for anyone to use—regardless of literacy or technical skills
+> The platform supports multilingual voice interaction, making it easy for anyone to use—regardless of literacy or technical skills.
+
+
+> OpenHealth helps you *take charge of your health data*. By leveraging AI and your personal health information,
+> OpenHealth provides a private assistant that helps you better understand and manage your health. You can run it completely locally for maximum privacy.
 
 ## ✨ Project Features
 
