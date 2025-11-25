@@ -147,7 +147,3 @@ graph LR
 > *Note:* If you're using Ollama with Docker, make sure to set the Ollama API endpoint to: http://docker.for.mac.localhost:11434 on a Mac or http://host.docker.internal:11434 on Windows.
 
 </details>
-
----
-
----
