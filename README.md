@@ -1,4 +1,3 @@
-// AI-HEALTH-DOCTOR
 # 🚀 *OpenHealth*
 
 <div align="center">
