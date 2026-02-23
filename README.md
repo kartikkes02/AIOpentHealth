@@ -1,5 +1,4 @@
 # 🚀 *OpenHealth* 
-
 <div align="center">
 
 *AI Health Assistant | Powered by Your Data*
